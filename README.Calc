@@ -1,0 +1,13 @@
+🧮 Simple Python Calculator
+This is a basic Python calculator program built using object-oriented programming. The calculator takes *two numbers and an arithmetic operation (+, -, , /) as input from the user and returns the calculated result. It also handles division by zero errors gracefully using exception handling.
+
+🔧 Features:
+User input for numbers and operation
+
+Supports +, -, *, / operations
+
+Object-Oriented Programming (__init__ and method structure)
+
+Handles invalid operations and divide-by-zero cases
+
+Easy to expand with more operations in the future
